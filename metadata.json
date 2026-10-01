@@ -1,0 +1,6 @@
+{
+  "name": "Speak Velvet — Design System",
+  "description": "Core visual design system and UI token library for Speak Velvet, a private spoken-English companion for school students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
